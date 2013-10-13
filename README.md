@@ -42,6 +42,7 @@ do the following:
 
 ```bash
 git clone https://github.com/bkiers/antlr4-csv-demo.git
+cd antlr4-csv-demo
 ant run
 ```
 
