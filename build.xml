@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Mu" default="run">
+<project name="ANTLR4-CSV-Demo" default="run">
 
     <property name="project.name"   value="ANTLR4-CSV-Demo" />
     <property name="main.class"     value="csv.Main" />
