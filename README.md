@@ -1,7 +1,8 @@
 ## ANTLR 4 CSV Demo
 
 A small demo project that demonstrates how to use ANTLR 4 to parse a CSV 
-file and return the contents as a 2 dimension list of strings (in Java).
+file and return the contents as a 2 dimension list of strings (in Java)
+as demonstrated in the [ANTLR 3 tutorial posted here](http://bkiers.blogspot.nl/2011/03/2-introduction-to-antlr.html).
 
 To run the Main class:
 
